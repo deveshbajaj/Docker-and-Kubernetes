@@ -1,0 +1,18 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+cce9957762b6        pyflask_web         "python app.py"          29 hours ago        Exited (137) 29 hours ago                       pyflask_web_1
+5235e4db4008        red:latest          "/bin/sh -c 'node in…"   2 weeks ago         Exited (137) 2 weeks ago                        eager_chaplygin
+1a8ebc2424d6        dev:latest          "/bin/sh -c 'node in…"   2 weeks ago         Exited (137) 2 weeks ago                        blissful_fermat
+2097026869ee        dev:latest          "/bin/sh -c 'node in…"   2 weeks ago         Created                                         trusting_turing
+c61c0e337c80        dev:latest          "/bin/sh -c 'node in…"   2 weeks ago         Created                                         quizzical_sammet
+3d72813ed231        dev:latest          "/bin/sh -c 'node in…"   2 weeks ago         Exited (137) 2 weeks ago                        stoic_einstein
+c06ef691b1ec        py:latest           "python ./test.py"       2 weeks ago         Exited (0) 2 weeks ago                          gifted_wescoff
+6e3fc552c2b6        py:latest           "python ./test.py"       2 weeks ago         Exited (0) 2 weeks ago                          zealous_pike
+243908eba27d        dev:latest          "/bin/sh -c 'node in…"   2 weeks ago         Exited (137) 2 weeks ago                        silly_heyrovsky
+856b8a001ebe        dev:latest          "/bin/sh -c 'node in…"   2 weeks ago         Exited (137) 2 weeks ago                        upbeat_nightingale
+40560b9e8584        py:latest           "python ./test.py"       2 weeks ago         Exited (0) 2 weeks ago                          condescending_varahamihira
+8a452738b7c1        py                  "python ./test.py"       2 weeks ago         Exited (0) 2 weeks ago                          focused_perlman
+5c2c701895b8        py                  "python ./test.py"       2 weeks ago         Exited (0) 2 weeks ago                          dazzling_torvalds
+c29b367c395c        dev                 "/bin/sh -c 'node in…"   3 weeks ago         Exited (137) 3 weeks ago                        brave_goldberg
+1a5381310ab5        dev:latest          "/bin/sh -c 'node in…"   3 weeks ago         Exited (137) 3 weeks ago                        musing_ride
+6f98a1ce110b        dev                 "/bin/sh -c 'node in…"   3 weeks ago         Exited (137) 3 weeks ago                        eloquent_edison
+658ce09a1528        dev                 "/bin/sh -c 'node in…"   3 weeks ago         Created                                         pedantic_lumiere
